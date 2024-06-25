@@ -1,3 +1,4 @@
 # Mobile_phone 
-### Used Algorithms 
-## logistic regression
+## Used Algorithms 
+### logistic regression
+### Decision Tree
