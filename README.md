@@ -2,3 +2,4 @@
 ## Used Algorithms 
 ### logistic regression
 ### Decision Tree
+### random Forest
